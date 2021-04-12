@@ -2,6 +2,6 @@
 
 ## git clone
 
-**git clone** - делает копию существующего Git-репозитория (`git clone <url>`). 
+**git clone *[url]*** - делает копию существующего Git-репозитория.
 
-`git clone <url> myproject` - так же делает копию репозитория, но с названием *myproject*.
+`git clone [url] myproject` - так же делает копию репозитория, но с названием *myproject*.

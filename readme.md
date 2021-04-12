@@ -7,7 +7,7 @@ LISENSE: [MIT](./lisense.md)
 ---
 
 ### Содержание:
-1. [gis status](./status.md)
+1. [git status](./status.md)
 2. [git add](./add.md)
 3. [git checkout](./checkout.md)
 4. [git reset](./reset.md)
@@ -16,8 +16,11 @@ LISENSE: [MIT](./lisense.md)
 7. [git rm](./rm.md)
 8. [git log](./log.md)
 9. [git remote](./remote.md)
-10. [git fetch/merge/rebase/pull](./fetch.md)
-11. [git push](./push.md)
+10. [git pull](./pull.md)
+    - [git fetch](./fetch.md)
+    - [git merge](./merge.md)
+11. [git rebase](./rebase.md)
+12. [git push](./push.md)
 
 ---
 
